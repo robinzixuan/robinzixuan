@@ -49,7 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [pokemon 剑盾 冰之雪原 超级巨坑](https://www.youtube.com/watch?v=GiLNad7ZnZs)
+- [Pokemon Shield DLC2 図鉴](https://www.youtube.com/watch?v=jwzX9h6wwwU)
+- [如何在GT“活下来”？  学术科研丛林法则](https://www.youtube.com/watch?v=-nsZfbKDXf4)
+- [ACCF 迎新](https://www.youtube.com/watch?v=4MvZEMnfi8g)
+- [Gatech ACCF Introduction](https://www.youtube.com/watch?v=6pvNFmADnK0)
 <!-- YOUTUBE:END -->
 
 <details>
