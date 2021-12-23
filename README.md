@@ -57,13 +57,7 @@
 - [Gatech ACCF Introduction](https://www.youtube.com/watch?v=6pvNFmADnK0)
 <!-- YOUTUBE:END -->
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
