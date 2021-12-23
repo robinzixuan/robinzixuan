@@ -52,6 +52,21 @@
 
 <!-- YOUTUBE:END -->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Robin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=robinzixuan&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://hluo76.github.io/robin.github.io/
 [twitter]: https://twitter.com/RobinZixuan
 [youtube]: https://www.youtube.com/channel/UC9HneNVKAQRPf5Dkl6qs2-Q
