@@ -1,6 +1,6 @@
 ### Hi there, I'm Robin - Luo [robinzixuan][website] 👋 
 
-[![Website](https://hluo76.github.io/robin.github.io/)](https://robinzixuan.com)
+[![Website](https://hluo76.github.io/robin.github.io/)](https://hluo76.github.io/robin.github.io/)
 
 
 ## I'm a Student, Researcher, Developer, and Traveler!!
