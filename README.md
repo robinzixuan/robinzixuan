@@ -2,11 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=robinzixuan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hluo76.github.io/robin.github.io/)
 
+<p align="center"><img src="assert/oqaazcctup1.jpeg" alt="robinzixuan" /></p>
 
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
 - 🔭 I just student of Northwestern University!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I live in Evanston, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Get a PhD position
 - ⚡ Fun fact: I love to traveling
