@@ -20,6 +20,8 @@
 [<img align="left" alt="robinzixuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="robinzixuan | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
 
+[<img align="left" alt="robinzixuan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][webdevplaylist]
+
 
 <br />
 
@@ -48,6 +50,7 @@
 [youtube]: https://www.youtube.com/channel/UC9HneNVKAQRPf5Dkl6qs2-Q
 [instagram]: https://www.instagram.com/robinzixuan1997/
 [linkedin]: https://www.linkedin.com/in/robinluo-18gatech/
-[webdevplaylist]: https://www.youtube.com/channel/UC9HneNVKAQRPf5Dkl6qs2-Q
+[webdevplaylist]: https://github.com/robinzixuan
 [googlescholar]: https://scholar.google.com/citations?user=MzH7kAcAAAAJ&hl=en
+
 
