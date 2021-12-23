@@ -18,6 +18,8 @@
 [<img align="left" alt="robinzixuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="robinzixuan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="robinzixuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="robinzixuan | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
+
 
 <br />
 
@@ -47,4 +49,5 @@
 [instagram]: https://www.instagram.com/robinzixuan1997/
 [linkedin]: https://www.linkedin.com/in/robinluo-18gatech/
 [webdevplaylist]: https://www.youtube.com/channel/UC9HneNVKAQRPf5Dkl6qs2-Q
+[googlescholar]: https://scholar.google.com/citations?user=MzH7kAcAAAAJ&hl=en
 
