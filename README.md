@@ -89,7 +89,8 @@
   </tr></tbody></table>
   
 
-[![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixaun)](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixuan)
+
+[![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
