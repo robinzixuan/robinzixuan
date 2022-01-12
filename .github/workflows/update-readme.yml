@@ -10,7 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: robinzixuan/SciAnnotate@master
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          path: main
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v2
+        with:
+          repository: my-org/my-tools
+          path: my-tools
+
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
