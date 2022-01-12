@@ -84,8 +84,13 @@
   <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=robinzixuan&show_icons=true&locale=en&theme=radical" alt="robinzixuan" /></span></td>
 
   <td style="border: none !important;"><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinzixuan&theme=radical" alt="robinzixuan" /></span></td>
+    
 
   </tr></tbody></table>
+  
+  
+  [![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixaun)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
