@@ -86,10 +86,11 @@
   <td style="border: none !important;"><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinzixuan&theme=radical" alt="robinzixuan" /></span></td>
     
 
+ [![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixaun)](https://github.com/robinzixuan/github-readme-stats)
   </tr></tbody></table>
   
   
-  [![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixaun)](https://github.com/robinzixuan/github-readme-stats)
+
 
 
 </details>
