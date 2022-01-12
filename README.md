@@ -86,10 +86,9 @@
   <td style="border: none !important;"><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinzixuan&theme=radical" alt="robinzixuan" /></span></td>
     
 
- [![Robin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinzixaun)](https://github.com/robinzixuan/github-readme-stats)
   </tr></tbody></table>
   
-  
+[![Robin's wakatime stats](<a href="https://wakatime.com/badge/user/5d89be5e-117e-4882-805a-5aedd1abcb86/project/f1174768-c14c-45d4-8c55-9385bf195227"><img src="https://wakatime.com/badge/user/5d89be5e-117e-4882-805a-5aedd1abcb86/project/f1174768-c14c-45d4-8c55-9385bf195227.svg" alt="wakatime"></a>)](https://github.com/robinzixuan/github-readme-stats)
 
 
 
