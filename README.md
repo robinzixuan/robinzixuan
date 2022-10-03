@@ -6,11 +6,11 @@
 
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
-- 🔭 I just student of Northwestern University!
+- 🔭 I am First-year PhD student of Northwestern University!
 - 🌱 I live in Evanston, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get a PhD position
-- ⚡ Fun fact: I love to traveling
+- 🥅 2022 New Goals: Publish more papers and put more contribution on my research work
+- ⚡ Fun fact: I love to traveling, hiking. The Northwestern University is pretty beautifual with the Michigan Lake.
 
 ### Connect with me:
 
