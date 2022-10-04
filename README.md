@@ -7,6 +7,7 @@
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
 - 🔭 I am First-year PhD student of Northwestern University!
+- 🤖 I am wroking in the MAGICS Lab advisor with Professor Han Liu.
 - 🌱 I live in Evanston, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 New Goals: Publish more papers and put more contribution on my research work
