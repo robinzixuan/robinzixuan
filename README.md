@@ -116,7 +116,7 @@
 </li>
 <li><p><b>Visit 30 provinces in China</b> (13/30)</font><br />
 Beijing, Zhejiang, Fujian, Hainan, Guangdong, Jiangshu
-Heilongjiang, Tianjin, Hong Kong, Shandong， Anhui, Shanxi
+Heilongjiang, Tianjin, Hong Kong, Shandong， Anhui, Shanxi,
 Shanghai.</p>
 </li>
 <li><p><b>Visit 30 states in the US</b> (19/30)<br />
