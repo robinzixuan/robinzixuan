@@ -119,8 +119,8 @@ Beijing, Zhejiang, Fujian, Hainan, Guangdong, Jiangshu
 Heilongjiang, Tianjin, Hong Kong, Shandong， Anhui, Shanxi,
 Shanghai.</p>
 </li>
-<li><p><b>Visit 30 states in the US</b> (20/30)<br />
-❄️AK, 🌉CA, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, 🏜️NV,  🗽NY,  🗼TX, 🍺WI, ☔WA.</p>
+<li><p><b>Visit 30 states in the US</b> (21/30)<br />
+❄️AK, 🌉CA, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, 💡NJ, 🏜️NV, 🗽NY,  🗼TX, 🍺WI, ☔WA.</p>
 </li>
 <li><p><b>Visit 30 National Parks in the US</b> (20/30)<br />
     Herbert Hoover NHS, Indiana Dunes NL, Golden Gate NRA, Boston African American
