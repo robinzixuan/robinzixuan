@@ -128,8 +128,8 @@ Shanghai.</p>
 Ice Age NST, Korean War Veterans Memorial , Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial
 ,Salem Maritime NHS, Sleeping Bear Dunes NL, Yosemite NP, Vietnam Veterans Memorial, White House, Gateway Arch NP</p>
     </li>
-<li><p><b>Visit 30 Airpots</b> <span style="color:red">(39/30)</span><br />
-KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS  </p>
+<li><p><b>Visit 30 Airpots</b> <span style="color:red">(40/30)</span><br />
+KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS, ZSYT  </p>
 </li>
 <li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(17/30)</font><br />
 HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K </p>
