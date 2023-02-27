@@ -128,7 +128,10 @@ Shanghai.</p>
 Ice Age NST, Korean War Veterans Memorial , Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial
 ,Salem Maritime NHS, Sleeping Bear Dunes NL, Yosemite NP, Vietnam Veterans Memorial, White House, Gateway Arch NP</p>
     </li>
-<li><p><b>Visit 30 Airpots</b> <p style="color:red;">(39/30)</p><br />
+<li><p><b>Visit 30 Airpots</b> <font color=red>(39/30)</font><br />
+KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS  </p>
+</li>
+<li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(39/30)</font><br />
 KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS  </p>
 </li>
 <li><p><b>Finish 300,000 kilometers flight by air</b> (229,679/300,000)</p>
