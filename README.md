@@ -134,4 +134,4 @@ KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KL
 <li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(18/30)</font><br />
 HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK </p>
 </li>
-<li><p><b>Finish 300,000 kilometers flight by air</b> (229,679/300,000)</p>
+<li><p><b>Finish 300,000 kilometers flight by air</b> (232,533/300,000)</p>
