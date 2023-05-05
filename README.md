@@ -5,6 +5,9 @@
 
 <p align="center"><img src="assert/oqaazcctup1.jpeg" alt="robinzixuan" /></p>
 
+<a href="https://twitter.com/robinzixuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinzixuan" height="30" width="40" /></a>
+
+
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
 - 🔭 I am First-year PhD student of Northwestern University!
