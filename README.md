@@ -1,6 +1,7 @@
 ### Hi there, I'm Robin - Luo [robinzixuan][website] 👋 
 
 [![Website](https://img.shields.io/website?label=robinzixuan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hluo76.github.io/robin.github.io/)
+[![wakatime](https://wakatime.com/badge/user/5d89be5e-117e-4882-805a-5aedd1abcb86/project/0617f7fd-c528-4ef5-bd2e-56df133b971c.svg)](https://wakatime.com/badge/user/5d89be5e-117e-4882-805a-5aedd1abcb86/project/0617f7fd-c528-4ef5-bd2e-56df133b971c)
 
 <p align="center"><img src="assert/oqaazcctup1.jpeg" alt="robinzixuan" /></p>
 
