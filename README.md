@@ -42,7 +42,8 @@
 ## Project
 project | homepage | stars | last commit | version 
 :--- | --- | :--- | :--- |  :--- 
-[rasa-baseline](https://github.com/robinzixuan/rasa-baseline) | [`#homepage`](https://github.com/robinzixuan/rasa-baseline) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/rasa-baseline?style=flat)](https://github.com/robinzixuan/rasa-baseline/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/rasa-baseline?style=flat&label=last)](https://github.com/robinzixuan/rasa-baseline/commits) | ![GitHub package version](https://img.shields.io/github/v/tag/robinzixuan/awesome-uikit?style=flat&label=&labelColor=555&logo=github)
+[IGN-Implicit-Generative-Networks](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks) | [`#homepage`](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/IGN-Implicit-Generative-Networks?style=flat)](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/IGN-Implicit-Generative-Networks?style=flat&label=last)](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks/commits) | - |
+[rasa-baseline](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks) | [`#homepage`](https://github.com/robinzixuan/rasa-baseline) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/rasa-baseline?style=flat)](https://github.com/robinzixuan/rasa-baseline/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/rasa-baseline?style=flat&label=last)](https://github.com/robinzixuan/rasa-baseline/commits) | - |
 
 
 
