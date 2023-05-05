@@ -5,7 +5,6 @@
 
 <p align="center"><img src="assert/oqaazcctup1.jpeg" alt="robinzixuan" /></p>
 
-<a href="https://twitter.com/robinzixuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinzixuan" height="30" width="40" /></a>
 
 
 ## I'm a Student, Researcher, Developer, and Traveler!!
@@ -24,10 +23,12 @@
 
 [<img align="left" alt="robinzixuan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="robinzixuan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="robinzixuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<a href="https://twitter.com/robinzixuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinzixuan" height="30" width="40" /></a>[twitter]
 [<img align="left" alt="robinzixuan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="robinzixuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="robinzixuan | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
+
 
 [<img align="left" alt="robinzixuan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][webdevplaylist]
 
