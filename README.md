@@ -83,7 +83,7 @@ CSV      5 mins          ▓░░░░░░░░░░░░░░░░░�
 
 </details>  
   
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   
  
@@ -112,7 +112,6 @@ CSV      5 mins          ▓░░░░░░░░░░░░░░░░░�
 
 
 
-</details>
 
 [website]: https://hluo76.github.io/robin.github.io/
 [twitter]: https://twitter.com/RobinZixuan
