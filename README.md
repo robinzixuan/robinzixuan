@@ -24,14 +24,14 @@
 [<img align="left" alt="robinzixuan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="robinzixuan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<a href="https://twitter.com/robinzixuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinzixuan" height="30" width="40" /></a>
+
 [<img align="left" alt="robinzixuan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="robinzixuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="robinzixuan | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
 
 
 [<img align="left" alt="robinzixuan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][webdevplaylist]
-
+<a href="https://twitter.com/robinzixuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinzixuan" height="30" width="40" /></a>
 
 <br />
 
@@ -46,6 +46,10 @@ project | homepage | stars | last commit | version
 [rasa-baseline](https://github.com/robinzixuan/IGN-Implicit-Generative-Networks) | [`#homepage`](https://github.com/robinzixuan/rasa-baseline) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/rasa-baseline?style=flat)](https://github.com/robinzixuan/rasa-baseline/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/rasa-baseline?style=flat&label=last)](https://github.com/robinzixuan/rasa-baseline/commits) | - |
 [SciAnnotate](https://github.com/robinzixuan/SciAnnotate) | [`#homepage`](https://github.com/robinzixuan/SciAnnotate) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/SciAnnotate?style=flat)](https://github.com/robinzixuan/SciAnnotate/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/SciAnnotate?style=flat&label=last)](https://github.com/robinzixuan/SciAnnotate/commits) | - |
 [Video-Question-Answering-HRI](https://github.com/robinzixuan/Video-Question-Answering-HRI) | [`#homepage`](https://github.com/robinzixuan/Video-Question-Answering-HRI) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/Video-Question-Answering-HRI?style=flat)](https://github.com/robinzixuan/Video-Question-Answering-HRI/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/Video-Question-Answering-HRI?style=flat&label=last)](https://github.com/robinzixuan/Video-Question-Answering-HRI/commits) | - |
+[3-linked-snake-robot-simulation](https://github.com/robinzixuan/3-linked-snake-robot-simulation) | [`#homepage`](https://github.com/robinzixuan/3-linked-snake-robot-simulation) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/3-linked-snake-robot-simulation?style=flat)](https://github.com/robinzixuan/3-linked-snake-robot-simulation/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/3-linked-snake-robot-simulation?style=flat&label=last)](https://github.com/robinzixuan/3-linked-snake-robot-simulation/commits) | - |
+[MedfordLab](https://github.com/robinzixuan/MedfordLab) | [`#homepage`](https://github.com/robinzixuan/MedfordLab) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/MedfordLab?style=flat)](https://github.com/robinzixuan/MedfordLab/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/MedfordLab?style=flat&label=last)](https://github.com/robinzixuan/MedfordLab/commits) | - |
+[e-stadium](https://github.com/robinzixuan/e-stadium) | [`#homepage`](https://github.com/robinzixuan/e-stadium) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/e-stadium?style=flat)](https://github.com/robinzixuan/e-stadium/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/e-stadium?style=flat&label=last)](https://github.com/robinzixuan/e-stadium/commits) | - |
+[Question-Classification-with-Deep-Contextualized-Transformer](https://github.com/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer) | [`#homepage`](https://github.com/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer) | [![GitHub stars](https://img.shields.io/github/stars/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer?style=flat)](https://github.com/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer?style=flat&label=last)](https://github.com/robinzixuan/Question-Classification-with-Deep-Contextualized-Transformer/commits) | - |
 
 
 <br />
