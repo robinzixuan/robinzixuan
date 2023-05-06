@@ -69,8 +69,7 @@ project | homepage | stars | last commit | version
 
 ---
 
-<details>
-  <summary>:zap: Weekly development breakdown</summary>
+## Weekly development breakdown
   
 <!--START_SECTION:waka-->
 
@@ -81,10 +80,10 @@ CSV      5 mins          ▓░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>  
+
   
 
-  <summary>:zap: GitHub Stats</summary>
+## GitHub Stats
   
  
 
