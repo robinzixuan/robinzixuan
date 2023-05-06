@@ -169,12 +169,7 @@ project | homepage | stars | last commit | version
 </table>
 <!--END_SECTION:top-followers-->
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
 
 <br />
 <br />
