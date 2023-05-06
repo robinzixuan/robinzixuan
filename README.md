@@ -70,11 +70,11 @@ project | homepage | stars | last commit | version
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Weekly development breakdown</summary>
   
-<!--START_SECTION:activity-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:waka-->
 
 </details>  
   
