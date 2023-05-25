@@ -194,9 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```text
-JSON         19 mins         ██████████████████████▓░░   90.79 %
-INI          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JSON         19 mins         ███████████████▒░░░░░░░░░   61.70 %
+Other        9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.34 %
+INI          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+SSH Key      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
