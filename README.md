@@ -194,9 +194,7 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 9 mins    █████████████████████████   99.78 %
-SSH Key      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other   4 hrs           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
