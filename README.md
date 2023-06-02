@@ -193,7 +193,7 @@ project | homepage | stars | last commit | version
   
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Other   4 hrs           █████████████████████████   100.00 %
 ```
 
