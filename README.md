@@ -194,7 +194,7 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
