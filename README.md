@@ -22,7 +22,7 @@
 - 🌱 I live in Evanston, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 New Goals: Publish more papers and put more contribution on my research work
-- ⚡ Fun fact: I love to traveling, hiking. The Northwestern University is pretty beautifual with the Michigan Lake.
+- ⚡ Fun fact: I enjoy traveling and hiking. Northwestern University is incredibly beautiful, particularly with the backdrop of Lake Michigan.
 
 
 
