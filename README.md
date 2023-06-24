@@ -194,8 +194,8 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 40 mins    ███████████████████▒░░░░░   77.98 %
-YAML    28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+Other   1 hr 40 mins    ███████████████████▓░░░░░   78.01 %
+YAML    28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
 ```
 
 <!--END_SECTION:waka-->
