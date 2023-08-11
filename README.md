@@ -145,6 +145,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sherryqchen">
+        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
+      </a>
+      <br />
+      <a href="https://github.com/sherryqchen">sherryqchen</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gugeyao">
         <img src="https://avatars2.githubusercontent.com/u/42479117" width="100px;" alt="gugeyao"/>
       </a>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/Frank-Gu-81">Frank Gu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sherryqchen">
-        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
-      </a>
-      <br />
-      <a href="https://github.com/sherryqchen">sherryqchen</a>
     </td>
   </tr>
 </table>
