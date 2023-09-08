@@ -194,11 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Python         17 hrs 7 mins   █████████████░░░░░░░░░░░░   51.81 %
-Other          6 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Bash           4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-ActionScript   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Assembly       55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Python         14 hrs 57 mins  ████████████░░░░░░░░░░░░░   47.54 %
+Other          6 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Bash           4 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+ActionScript   1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Assembly       1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:waka-->
