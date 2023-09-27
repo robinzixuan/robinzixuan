@@ -194,11 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other       6 hrs           ███████████████████▒░░░░░   77.76 %
-GDScript3   1 hr 34 mins    █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Assembly    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Ezhil       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-CSV         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other       6 hrs           ████████████████▒░░░░░░░░   65.21 %
+GDScript3   2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+Bash        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+MySQL       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Python      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
