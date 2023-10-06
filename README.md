@@ -194,11 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other       4 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.44 %
-Markdown    1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-GDScript3   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Bash        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-MySQL       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Other       4 hrs 30 mins   █████████████░░░░░░░░░░░░   52.09 %
+Markdown    1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+GDScript3   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Python      33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Bash        27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
