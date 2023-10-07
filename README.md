@@ -256,14 +256,15 @@ Beijing, Zhejiang, Fujian, Hainan, Guangdong, Jiangshu
 Heilongjiang, Tianjin, Hong Kong, Shandong, Anhui, Shanxi,
 Shanghai.</p>
 </li>
-<li><p><b>Visit 30 states in the US</b> (22/30)<br />
-❄️AK, 🌉CA, 🏂 CO, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, 💡NJ, 🏜️NV, 🗽NY,  🗼TX, 🍺WI, ☔WA.</p>
+<li><p><b>Visit 30 states in the US</b> (23/30)<br />
+❄️AK, 🌉CA, 🏂 CO, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, 💡NJ, 🏜️NV, 🗽NY, 🎸 TN, 🗼TX, 🍺WI, ☔WA.</p>
 </li>
 <li><p><b>Visit 30 National Parks in the US</b> (31/30)<br />
     Herbert Hoover NHS, Indiana Dunes NL, Golden Gate NRA, Boston African American
     NHS, Boston NHP, Statue of Liberty NM, Federal Hall N MEM, Fort Point NHS, Fort Pulaski NM, 
-Ice Age NST, Korean War Veterans Memorial , Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial
-,Salem Maritime NHS, Sleeping Bear Dunes NL, Yosemite NP, Vietnam Veterans Memorial, White House, Gateway Arch NP, Rocky Mountain NP, Florissant Fossil Beds NM, Lincoln Home NHS, Ulysses S. Grant NHS, Lewis & Clark NHT, San Francisco Maritime NHP, Alcatraz Island, Point Reyes NS, Presidio of San Francisco, Muir Woods NM, Juan Bautista de Anza NHT </p>
+Ice Age NST, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial, 
+Salem Maritime NHS, Sleeping Bear Dunes NL, Yosemite NP, Vietnam Veterans Memorial, White House, Gateway Arch NP, Rocky Mountain NP, Florissant Fossil Beds NM, Lincoln Home NHS, Ulysses S. Grant NHS, Lewis & Clark NHT, San Francisco Maritime NHP, Alcatraz Island, Point Reyes NS, Presidio of San Francisco, Muir Woods NM, Juan Bautista de Anza NHT, 
+ Great Smoky Mountains NP, Big South Fork NRNA, Obed Wild and Scenic River, Mammoth Cave NP </p>
     </li>
 <li><p><b>Visit 30 Airpots</b> <span style="color:red">(40/30)</span><br />
 KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS, ZSYT  </p>
@@ -271,4 +272,4 @@ KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KL
 <li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(18/30)</font><br />
 HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK </p>
 </li>
-<li><p><b>Finish 300,000 kilometers flight by air</b> (235,504/300,000)</p>
+<li><p><b>Finish 300,000 kilometers flight by air</b> (238，593/300,000)</p>
