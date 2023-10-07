@@ -259,7 +259,7 @@ Shanghai.</p>
 <li><p><b>Visit 30 states in the US</b> (23/30)<br />
 ❄️AK, 🌉CA, 🏂 CO, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, 💡NJ, 🏜️NV, 🗽NY, 🎸 TN, 🗼TX, 🍺WI, ☔WA.</p>
 </li>
-<li><p><b>Visit 30 National Parks in the US</b> (31/30)<br />
+<li><p><b>Visit 30 National Parks in the US</b> (35/30)<br />
     Herbert Hoover NHS, Indiana Dunes NL, Golden Gate NRA, Boston African American
     NHS, Boston NHP, Statue of Liberty NM, Federal Hall N MEM, Fort Point NHS, Fort Pulaski NM, 
 Ice Age NST, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial, 
