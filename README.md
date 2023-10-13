@@ -194,10 +194,7 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   17 mins         █████████▒░░░░░░░░░░░░░░░   37.18 %
-Bash       16 mins         ████████▓░░░░░░░░░░░░░░░░   34.68 %
-Python     13 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Ezhil      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Ezhil   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
