@@ -194,7 +194,8 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   0 secs          █████████████████████████   100.00 %
+Other   7 hrs           █████████████████████████   99.97 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
