@@ -194,7 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 hrs           █████████████████████████   100.00 %
+Other            7 hrs           ███████████████████▒░░░░░   76.89 %
+Python           1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Assembly         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+MySQL            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+ActionScript 3   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
