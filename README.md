@@ -94,18 +94,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/BladeRunner713">Web3 Intern</a>
     </td>
     <td align="center">
-      <a href="https://github.com/linghuix">
-        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
-      </a>
-      <br />
-      <a href="https://github.com/linghuix">Jerry X</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ruiyangqin2016">
         <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
       </a>
       <br />
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/linghuix">
+        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
+      </a>
+      <br />
+      <a href="https://github.com/linghuix">Jerry X</a>
     </td>
     <td align="center">
       <a href="https://github.com/proudhuma">
