@@ -131,18 +131,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ALo0f">ALo0f</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ElaineWu66">
-        <img src="https://avatars2.githubusercontent.com/u/71010461" width="100px;" alt="ElaineWu66"/>
-      </a>
-      <br />
-      <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/he-h">
         <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
       </a>
       <br />
       <a href="https://github.com/he-h">Haoyu He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ElaineWu66">
+        <img src="https://avatars2.githubusercontent.com/u/71010461" width="100px;" alt="ElaineWu66"/>
+      </a>
+      <br />
+      <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Frank-Gu-81">
