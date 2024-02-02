@@ -17,11 +17,11 @@
 
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
-- 🔭 I am a PhD student in my first year at Northwestern University!
+- 🔭 I am a PhD student in my second year at Northwestern University!
 - 🤖 I am working under the guidance of Professor Han Liu in the MAGICS Lab.
-- 🌱 I live in Evanston, IL 🤣
+- 🌱 I live in Chicago, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 New Goals: Publish more papers and put more contribution on my research work
+- 🥅 2024 New Goals: Publish more papers and put more contribution on my research work
 - ⚡ Fun fact: I enjoy traveling and hiking. Northwestern University is incredibly beautiful, particularly with the backdrop of Lake Michigan.
 
 
