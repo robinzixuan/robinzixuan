@@ -194,11 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Python     8 hrs 14 mins   ████████████░░░░░░░░░░░░░   47.44 %
-Other      4 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
-YAML       2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-CSV        1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Markdown   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Python     6 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.21 %
+Other      4 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+YAML       1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+CSV        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
