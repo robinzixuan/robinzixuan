@@ -66,6 +66,13 @@ project | homepage | stars | last commit | version
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/OliverShang">
+        <img src="https://avatars2.githubusercontent.com/u/35326344" width="100px;" alt="OliverShang"/>
+      </a>
+      <br />
+      <a href="https://github.com/OliverShang">Bingqi Shang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhuangdizhu">
         <img src="https://avatars2.githubusercontent.com/u/10665751" width="100px;" alt="zhuangdizhu"/>
       </a>
@@ -80,18 +87,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/WHMHammer">WHMHammer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BladeRunner713">
-        <img src="https://avatars2.githubusercontent.com/u/9507828" width="100px;" alt="BladeRunner713"/>
-      </a>
-      <br />
-      <a href="https://github.com/BladeRunner713">Web3 Intern</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fireindark707">
         <img src="https://avatars2.githubusercontent.com/u/30530581" width="100px;" alt="fireindark707"/>
       </a>
       <br />
       <a href="https://github.com/fireindark707">fireindark707</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BladeRunner713">
+        <img src="https://avatars2.githubusercontent.com/u/9507828" width="100px;" alt="BladeRunner713"/>
+      </a>
+      <br />
+      <a href="https://github.com/BladeRunner713">Web3 Intern</a>
     </td>
     <td align="center">
       <a href="https://github.com/ruiyangqin2016">
@@ -107,6 +114,8 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/linghuix">Jerry X</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/proudhuma">
         <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
@@ -114,8 +123,6 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/proudhuma">hhu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Marklong7">
         <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/sherryqchen">sherryqchen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Frank-Gu-81">
-        <img src="https://avatars2.githubusercontent.com/u/93494304" width="100px;" alt="Frank-Gu-81"/>
-      </a>
-      <br />
-      <a href="https://github.com/Frank-Gu-81">Frank Gu</a>
     </td>
   </tr>
 </table>
