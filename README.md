@@ -117,18 +117,18 @@ project | homepage | stars | last commit | version
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/proudhuma">
-        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
-      </a>
-      <br />
-      <a href="https://github.com/proudhuma">hhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Marklong7">
         <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
       </a>
       <br />
       <a href="https://github.com/Marklong7">jialong (mark)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/proudhuma">
+        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
+      </a>
+      <br />
+      <a href="https://github.com/proudhuma">hhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElaineWu66">
