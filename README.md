@@ -159,11 +159,11 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sherryqchen">
-        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
+      <a href="https://github.com/CaMi1le">
+        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
       </a>
       <br />
-      <a href="https://github.com/sherryqchen">sherryqchen</a>
+      <a href="https://github.com/CaMi1le">CaMi1le</a>
     </td>
   </tr>
 </table>
