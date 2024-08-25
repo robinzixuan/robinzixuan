@@ -194,11 +194,11 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Python     10 hrs 27 mins  ██████████████▒░░░░░░░░░░   57.98 %
-Other      6 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   36.99 %
-YAML       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Bash       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python     9 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.39 %
+Other      6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
+YAML       56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Bash       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
