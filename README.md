@@ -194,10 +194,8 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other      7 hrs 59 mins   ███████████████████████░░   92.13 %
-Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Text       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-TeX        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other      7 hrs 59 mins   ████████████████████████░   96.36 %
+Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
