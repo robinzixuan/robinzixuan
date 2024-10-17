@@ -145,6 +145,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/he-h">
+        <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
+      </a>
+      <br />
+      <a href="https://github.com/he-h">Haoyu He</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Auroraye">
         <img src="https://avatars2.githubusercontent.com/u/28421394" width="100px;" alt="Auroraye"/>
       </a>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/ALo0f">ALo0f</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sherryqchen">
-        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
-      </a>
-      <br />
-      <a href="https://github.com/sherryqchen">sherryqchen</a>
     </td>
   </tr>
 </table>
