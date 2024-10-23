@@ -18,8 +18,8 @@ jobs:
       - name: Checkout tools repo
         uses: actions/checkout@v2
         with:
-          repository: robinzixuan/SciAnnotate
-          path: SciAnnotate
+          repository: robinzixuan/OutEffHop
+          path: OutEffHop
 
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
