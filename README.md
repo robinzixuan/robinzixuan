@@ -18,7 +18,7 @@
 ## I'm a Student, Researcher, Developer, and Traveler!!
 
 - 🔭 I am a PhD candidate in my third year at Northwestern University!
-- 🤖 I am working under the guidance of Professor Yan Chen the MAGICS Lab.
+- 🤖 I am working under the guidance of Professor Yan Chen in the Northwestern University
 - 🌱 I live in Chicago, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 New Goals: Publish more papers and put more contribution on my research work
