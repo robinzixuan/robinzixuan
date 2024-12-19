@@ -214,7 +214,7 @@ Python   0 secs          ░░░░░░░░░░░░░░░░░░�
 
   <table><tbody><tr style="border: none !important;">
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinzixuan&show_icons=true&locale=en&layout=compact&hide=html,jupyter&size_weight=0.5&count_weight=0.5" alt="robinzixuan" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinzixuan&show_icons=true&locale=en&layout=compact&hide=html,javascript&size_weight=0.5&count_weight=0.5" alt="robinzixuan" /></p>
 
   <td style="border: none !important;"><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinzixuan&theme=radical" alt="robinzixuan" /></a></span></td>
 
