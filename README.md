@@ -65,13 +65,6 @@ project | homepage | stars | last commit | version
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/JeffCarpenter">
-        <img src="https://avatars2.githubusercontent.com/u/178424" width="100px;" alt="JeffCarpenter"/>
-      </a>
-      <br />
-      <a href="https://github.com/JeffCarpenter">Jeff Carpenter</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OliverShang">
         <img src="https://avatars2.githubusercontent.com/u/35326344" width="100px;" alt="OliverShang"/>
       </a>
@@ -113,8 +106,6 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/linghuix">
         <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
@@ -122,6 +113,8 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/linghuix">Jerry X</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Marklong7">
         <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
@@ -144,13 +137,6 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/proudhuma">hhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CaMi1le">
-        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
-      </a>
-      <br />
-      <a href="https://github.com/CaMi1le">CaMi1le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Auroraye">
         <img src="https://avatars2.githubusercontent.com/u/28421394" width="100px;" alt="Auroraye"/>
       </a>
@@ -163,6 +149,20 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/he-h">Haoyu He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CaMi1le">
+        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
+      </a>
+      <br />
+      <a href="https://github.com/CaMi1le">CaMi1le</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ALo0f">
+        <img src="https://avatars2.githubusercontent.com/u/48449610" width="100px;" alt="ALo0f"/>
+      </a>
+      <br />
+      <a href="https://github.com/ALo0f">ALo0f</a>
     </td>
   </tr>
 </table>
