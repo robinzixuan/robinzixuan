@@ -257,12 +257,9 @@ Shanghai.</p>
 <li><p><b>Visit 30 states in the US</b> (29/30)<br />
 ❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🌹 OR, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🍺WI, ☔WA.</p>
 </li>
-<li><p><b>Visit 30 National Parks in the US</b> (47/30)<br />
-    Herbert Hoover NHS, Indiana Dunes NL, Golden Gate NRA, Boston African American
-    NHS, Boston NHP, Statue of Liberty NM, Federal Hall N MEM, Fort Point NHS, Fort Pulaski NM, 
-Ice Age NST, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial, 
-Salem Maritime NHS, Sleeping Bear Dunes NL, #Yosemite NP#, Vietnam Veterans Memorial, White House, Gateway Arch NP, Rocky Mountain NP, Florissant Fossil Beds NM, Lincoln Home NHS, Ulysses S. Grant NHS, Lewis & Clark NHT, San Francisco Maritime NHP, Alcatraz Island, Point Reyes NS, Presidio of San Francisco, Muir Woods NM, Juan Bautista de Anza NHT, 
- Great Smoky Mountains NP, Big South Fork NRNA, Obed Wild and Scenic River, Mammoth Cave NP, Blue Ridge Parkway, Manhattan Project NHP, Congaree NP, Minute Man NHP, Saugus Iron Works NHS, Mount Rainier NP, North Cascades NP, Olympic NP,Ross Lake NRA, Lake Chelan NRA, Wing Luke Museum Affiliated Area, Lewis & Clark NHP </p>
+<li><p><b>Visit 30 National Parks in the US</b> (51/30)<br />
+    <b>Indiana Dunes NP</b>, <b>Yosemite NP</b>, <b>Mount Rainier NP</b>, <b>North Cascades NP</b>, <b>Olympic NP</b>, <b>Great Smoky Mountains NP</b>, <b>Gateway Arch NP</b>, <b>Rocky Mountain NP</b>, <b>Mammoth Cave NP</b>, <b>Congaree NP</b>, Boston NHP, Manhattan Project NHP,  Minute Man NHP,  Lewis & Clark NHP, San Francisco Maritime NHP, Golden Gate NRA, Ross Lake NRA, Lake Chelan NRA, Big South Fork NRNA, Herbert Hoover NHS, Lincoln Home NHS, Ulysses S. Grant NHS,  Boston African American NHS, Fort Point NHS, Saugus Iron Works NHS, Salem Maritime NHS, Statue of Liberty NM, Fort Pulaski NM, Muir Woods NM, Fort Mchenry NM, Florissant Fossil Beds NM, Lewis & Clark NHT, Star-Spangled Banner NHT, Juan Bautista de Anza NHT,  Sleeping Bear Dunes NL, Ice Age NST, Point Reyes NS, Obed WSR, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial,  Vietnam Veterans Memorial, White House,   Alcatraz Island, Presidio of San Francisco, Washington Monument, World War II Memorial,
+    Wing Luke Museum Affiliated Area,  Blue Ridge Parkway, Baltimore-Washington Parkway </p>
     </li>
 <li><p><b>Visit 30 Airpots</b> <span style="color:red">(41/30)</span><br />
 KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS, ZSYT, KBOS  </p>
