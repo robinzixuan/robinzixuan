@@ -254,8 +254,8 @@ Beijing, Zhejiang, Fujian, Hainan, Guangdong, Jiangshu
 Heilongjiang, Tianjin, Hong Kong, Shandong, Anhui, Shanxi,
 Shanghai.</p>
 </li>
-<li><p><b>Visit 30 states in the US</b> (29/30)<br />
-❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🌹 OR, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🍺WI, ☔WA.</p>
+<li><p><b>Visit 30 states in the US</b> (30/30)<br />
+❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🏈 OH, 🌹 OR, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🍺WI, ☔WA.</p>
 </li>
 <li><p><b>Visit 30 National Parks in the US</b> (51/30)<br />
     <b>Indiana Dunes NP</b>, <b>Yosemite NP</b>, <b>Mount Rainier NP</b>, <b>North Cascades NP</b>, <b>Olympic NP</b>, <b>Great Smoky Mountains NP</b>, <b>Gateway Arch NP</b>, <b>Rocky Mountain NP</b>, <b>Mammoth Cave NP</b>, <b>Congaree NP</b>, Boston NHP, Manhattan Project NHP,  Minute Man NHP,  Lewis & Clark NHP, San Francisco Maritime NHP, Golden Gate NRA, Ross Lake NRA, Lake Chelan NRA, Big South Fork NRNA, Herbert Hoover NHS, Lincoln Home NHS, Ulysses S. Grant NHS,  Boston African American NHS, Fort Point NHS, Saugus Iron Works NHS, Salem Maritime NHS, Statue of Liberty NM, Fort Pulaski NM, Muir Woods NM, Fort Mchenry NM, Florissant Fossil Beds NM, Lewis & Clark NHT, Star-Spangled Banner NHT, Juan Bautista de Anza NHT,  Sleeping Bear Dunes NL, Ice Age NST, Point Reyes NS, Obed WSR, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial,  Vietnam Veterans Memorial, White House,   Alcatraz Island, Presidio of San Francisco, Washington Monument, World War II Memorial,
