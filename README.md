@@ -116,6 +116,13 @@ project | homepage | stars | last commit | version
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/zhanghx04">
+        <img src="https://avatars2.githubusercontent.com/u/23461954" width="100px;" alt="zhanghx04"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Marklong7">
         <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
       </a>
@@ -156,13 +163,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/CaMi1le">CaMi1le</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ALo0f">
-        <img src="https://avatars2.githubusercontent.com/u/48449610" width="100px;" alt="ALo0f"/>
-      </a>
-      <br />
-      <a href="https://github.com/ALo0f">ALo0f</a>
     </td>
   </tr>
 </table>
