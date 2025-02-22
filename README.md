@@ -226,7 +226,6 @@ TeX     26 mins         █▒░░░░░░░░░░░░░░░░�
   </tr></tbody></table>
   
 
-[![](https://raw.githubusercontent.com/robinzixuan/robinzixuan/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/robinzixuan/github-profile-summary-cards)
 
 
 
@@ -268,6 +267,4 @@ HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK </p>
 </li>
 <li><p><b>Finish 300,000 kilometers flight by air</b> (244，469/300,000)</p>
 
-
-## Game
 
