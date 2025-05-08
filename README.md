@@ -144,18 +144,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/proudhuma">hhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CaMi1le">
-        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
-      </a>
-      <br />
-      <a href="https://github.com/CaMi1le">CaMi1le</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Auroraye">
         <img src="https://avatars2.githubusercontent.com/u/28421394" width="100px;" alt="Auroraye"/>
       </a>
       <br />
       <a href="https://github.com/Auroraye">Yexin </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CaMi1le">
+        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
+      </a>
+      <br />
+      <a href="https://github.com/CaMi1le">CaMi1le</a>
     </td>
     <td align="center">
       <a href="https://github.com/he-h">
