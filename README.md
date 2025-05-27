@@ -123,6 +123,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/proudhuma">
+        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
+      </a>
+      <br />
+      <a href="https://github.com/proudhuma">hhu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ElaineWu66">
         <img src="https://avatars2.githubusercontent.com/u/71010461" width="100px;" alt="ElaineWu66"/>
       </a>
@@ -130,11 +137,11 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/proudhuma">
-        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
+      <a href="https://github.com/he-h">
+        <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
       </a>
       <br />
-      <a href="https://github.com/proudhuma">hhu</a>
+      <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
       <a href="https://github.com/CaMi1le">
@@ -149,13 +156,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/Auroraye">Yexin </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/he-h">
-        <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
-      </a>
-      <br />
-      <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
       <a href="https://github.com/ALo0f">
