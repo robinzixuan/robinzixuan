@@ -253,8 +253,8 @@ Beijing, Zhejiang, Fujian, Hainan, Guangdong, Jiangshu
 Heilongjiang, Tianjin, Hong Kong, Shandong, Anhui, Shanxi,
 Shanghai.</p>
 </li>
-<li><p><b>Visit 30 states in the US</b> <span style="color:red">(33/30)</span><br />
-❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 1⃣ DE, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🏈 OH, 🌹 OR, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🚬 VA, 🍺WI, ☔WA, 🗻 WV.</p>
+<li><p><b>Visit 30 states in the US</b> <span style="color:red">(34/30)</span><br />
+❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 1⃣ DE, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD,  🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🏈 OH, 🌹 OR, 🔔 PA, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🚬 VA, 🍺WI, ☔WA, 🗻 WV.</p>
 </li>
 <li><p><b>Visit 30 National Parks in the US</b> (12/30)<br />
   Indiana Dunes NP, Yosemite NP, Mount Rainier NP, North Cascades NP, Olympic NP, Great Smoky Mountains NP, Gateway Arch NP, Rocky Mountain NP, Mammoth Cave NP, Congaree NP, New River Gorge NP, Shenandoah NP</p>
