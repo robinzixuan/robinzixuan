@@ -94,18 +94,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/fireindark707">fireindark707</a>
     </td>
     <td align="center">
-      <a href="https://github.com/linghuix">
-        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
-      </a>
-      <br />
-      <a href="https://github.com/linghuix">Jerry X</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zhanghx04">
         <img src="https://avatars2.githubusercontent.com/u/23461954" width="100px;" alt="zhanghx04"/>
       </a>
       <br />
       <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/linghuix">
+        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
+      </a>
+      <br />
+      <a href="https://github.com/linghuix">Jerry X</a>
     </td>
     <td align="center">
       <a href="https://github.com/ruiyangqin2016">
