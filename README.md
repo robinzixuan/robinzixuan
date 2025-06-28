@@ -246,7 +246,7 @@ Image (svg)   22 mins         ▒░░░░░░░░░░░░░░░�
 
 ### 30-30 Project
 <h></h>
-<p>Hopefully before I am 30-year-ago, I can</p>
+<p>Hopefully before I am 30-year-old, I can</p>
 <ul>
 <li><p><b>Visit 30 countries / regions</b> (7/30)<br />
 🇨🇳China, 🇭🇰Hong Kong, 🇯🇵Japan,  🇺🇸United States, 🇨🇦Canada, 🇻🇳Vietnam, 🇸🇬Singapore.<br />
