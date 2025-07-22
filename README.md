@@ -108,20 +108,20 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/linghuix">Jerry X</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ruiyangqin2016">
-        <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
-      </a>
-      <br />
-      <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Marklong7">
         <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
       </a>
       <br />
       <a href="https://github.com/Marklong7">jialong (mark)</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ruiyangqin2016">
+        <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
+      </a>
+      <br />
+      <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
     <td align="center">
       <a href="https://github.com/proudhuma">
