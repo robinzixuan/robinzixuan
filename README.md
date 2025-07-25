@@ -94,28 +94,12 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/fireindark707">fireindark707</a>
     </td>
     <td align="center">
-      <a href="https://github.com/linghuix">
-        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
-      </a>
-      <br />
-      <a href="https://github.com/linghuix">Jerry X</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Marklong7">
-        <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
-      </a>
-      <br />
-      <a href="https://github.com/Marklong7">jialong (mark)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zhanghx04">
         <img src="https://avatars2.githubusercontent.com/u/23461954" width="100px;" alt="zhanghx04"/>
       </a>
       <br />
       <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ruiyangqin2016">
         <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
@@ -124,11 +108,34 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
     <td align="center">
+      <a href="https://github.com/linghuix">
+        <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
+      </a>
+      <br />
+      <a href="https://github.com/linghuix">Jerry X</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Marklong7">
+        <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
+      </a>
+      <br />
+      <a href="https://github.com/Marklong7">jialong (mark)</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/proudhuma">
         <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
       </a>
       <br />
       <a href="https://github.com/proudhuma">hhu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/he-h">
+        <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
+      </a>
+      <br />
+      <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElaineWu66">
@@ -145,13 +152,6 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/CaMi1le">CaMi1le</a>
     </td>
     <td align="center">
-      <a href="https://github.com/he-h">
-        <img src="https://avatars2.githubusercontent.com/u/43588065" width="100px;" alt="he-h"/>
-      </a>
-      <br />
-      <a href="https://github.com/he-h">Haoyu He</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Auroraye">
         <img src="https://avatars2.githubusercontent.com/u/28421394" width="100px;" alt="Auroraye"/>
       </a>
@@ -159,11 +159,11 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/Auroraye">Yexin </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ALo0f">
-        <img src="https://avatars2.githubusercontent.com/u/48449610" width="100px;" alt="ALo0f"/>
+      <a href="https://github.com/sherryqchen">
+        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
       </a>
       <br />
-      <a href="https://github.com/ALo0f">ALo0f</a>
+      <a href="https://github.com/sherryqchen">sherryqchen</a>
     </td>
   </tr>
 </table>
