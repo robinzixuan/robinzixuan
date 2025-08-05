@@ -94,6 +94,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/fireindark707">fireindark707</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Marklong7">
+        <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
+      </a>
+      <br />
+      <a href="https://github.com/Marklong7">jialong (mark)</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhanghx04">
         <img src="https://avatars2.githubusercontent.com/u/23461954" width="100px;" alt="zhanghx04"/>
       </a>
@@ -107,21 +114,14 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/linghuix">
         <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
       </a>
       <br />
       <a href="https://github.com/linghuix">Jerry X</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Marklong7">
-        <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
-      </a>
-      <br />
-      <a href="https://github.com/Marklong7">jialong (mark)</a>
     </td>
     <td align="center">
       <a href="https://github.com/proudhuma">
