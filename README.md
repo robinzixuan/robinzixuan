@@ -267,11 +267,11 @@ Shanghai.</p>
     Boston NHP, Manhattan Project NHP, Harpers Ferry NHP, First State NHP,  Minute Man NHP, Independence NHP,  Lewis & Clark NHP, San Francisco Maritime NHP, Hopewell Culture NHP,  Golden Gate NRA, Ross Lake NRA, Lake Chelan NRA, Big South Fork NRNA, Gauley River NRA, Herbert Hoover NHS, Edgar Allan Poe NHS, Gloria Dei Church NHS, Lincoln Home NHS, Ulysses S. Grant NHS,  Boston African American NHS, Fort Point NHS, Saugus Iron Works NHS, Salem Maritime NHS, Statue of Liberty NM, Fort Pulaski NM, Muir Woods NM, Fort Mchenry NM, Florissant Fossil Beds NM, Lewis & Clark NHT, Washington-Rochambeau Revolutionary Route NHT, Star-Spangled Banner NHT, Juan Bautista de Anza NHT,  Sleeping Bear Dunes NL, Ice Age NST, Appalachian NST, Point Reyes NS, Obed WSR, Bluestone NSR, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial,  Vietnam Veterans Memorial, White House,   Alcatraz Island, Presidio of San Francisco, Washington Monument, World War II Memorial,
     Wing Luke Museum Affiliated Area,  Blue Ridge Parkway, Baltimore-Washington Parkway </p>
     </li>
-<li><p><b>Visit 30 Airpots</b> <span style="color:red">(44/30)</span><br />
-KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS, ZSYT, KBOS, KBDL, KPDX, CYVR  </p>
+<li><p><b>Visit 30 Airpots</b> <span style="color:red">(46/30)</span><br />
+KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KLEX, KEWR, KLGA, VHHH, KMIA, KSJC, KMCO, KMSP, KLAN, KDFW, KDEN, ZSAM, KIAH, KAUS, KBWI, KDCA, KSEA, KCID, KSLC, KLAS, KHNL, KIAD, KBRL, ZGGG, ZGSZ, VVTS, ZSYT, KBOS, KBDL, KPDX, CYVR, KHVN, KBNA  </p>
 </li>
-<li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(18/30)</font><br />
-HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK </p>
+<li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(19/30)</font><br />
+HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK, XP </p>
 </li>
 <li><p><b>Finish 300,000 kilometers flight by air</b> (276,608/300,000)</p>
 
