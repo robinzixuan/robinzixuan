@@ -66,6 +66,13 @@ project | homepage | stars | last commit | version
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/bshang17">
+        <img src="https://avatars2.githubusercontent.com/u/35326344" width="100px;" alt="bshang17"/>
+      </a>
+      <br />
+      <a href="https://github.com/bshang17">Bingqi Shang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhuangdizhu">
         <img src="https://avatars2.githubusercontent.com/u/10665751" width="100px;" alt="zhuangdizhu"/>
       </a>
@@ -107,6 +114,8 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ruiyangqin2016">
         <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
@@ -114,8 +123,6 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/linghuix">
         <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/Auroraye">Yexin </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sherryqchen">
-        <img src="https://avatars2.githubusercontent.com/u/41886668" width="100px;" alt="sherryqchen"/>
-      </a>
-      <br />
-      <a href="https://github.com/sherryqchen">sherryqchen</a>
     </td>
   </tr>
 </table>
