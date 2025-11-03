@@ -194,7 +194,8 @@ project | homepage | stars | last commit | version
 <!--START_SECTION:waka-->
 
 ```txt
-Other   11 hrs 15 mins  █████████████████████████   100.00 %
+Other    11 hrs 17 mins  ████████████████████████▓   98.47 %
+Python   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
