@@ -66,18 +66,18 @@ project | homepage | stars | last commit | version
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Dogacel">
-        <img src="https://avatars2.githubusercontent.com/u/7023385" width="100px;" alt="Dogacel"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dogacel">Doğaç Eldenk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bshang17">
         <img src="https://avatars2.githubusercontent.com/u/35326344" width="100px;" alt="bshang17"/>
       </a>
       <br />
       <a href="https://github.com/bshang17">Bingqi Shang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dogacel">
+        <img src="https://avatars2.githubusercontent.com/u/7023385" width="100px;" alt="Dogacel"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dogacel">Doğaç Eldenk</a>
     </td>
     <td align="center">
       <a href="https://github.com/zhuangdizhu">
