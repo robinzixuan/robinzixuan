@@ -21,7 +21,7 @@
 - 🤖 I am conducting research under the mentorship of Professor Yan Chen at Northwestern University.
 - 🌱 I live in Chicago, IL 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 New Goals: Publish more papers and put more contribution on my research work
+- 🥅 2026 New Goals: Publish more papers and put more contribution on my research work
 - ⚡ Fun fact: I enjoy traveling and hiking. Northwestern University is incredibly beautiful, particularly with the backdrop of Lake Michigan.
 
 
