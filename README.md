@@ -256,8 +256,8 @@ Shanghai.</p>
 <li><p><b>Visit 30 states in the US</b> <span style="color:red">(35/30)</span><br />
 ❄️AK, 🌉CA, 🏂 CO, 📃 CT, 🐼DC, 1⃣ DE, 🍊 FL, 🍑 GA, 🌋HI, 💨IL, 🏁IN, 🚜IA, 🏇KY, 🔮MA, 🐢MD, 🌲ME, 🚘MI, ♈ MO, 🌟MN, ✈ NC, 🐍 NH, 💡NJ, 🏜️NV, 🗽NY, 🏈 OH, 🌹 OR, 🔔 PA, 🌊 RI,  🌴 SC,  🎸 TN, 🗼TX, 🚬 VA, 🍺WI, ☔WA, 🗻 WV.</p>
 </li>
-<li><p><b>Visit 30 National Parks in the US</b> (15/30)<br />
-  Indiana Dunes NP, Yosemite NP, Mount Rainier NP, North Cascades NP, Olympic NP, Great Smoky Mountains NP, Gateway Arch NP, Rocky Mountain NP, Mammoth Cave NP, Congaree NP, New River Gorge NP, Shenandoah NP, Crater Lake NP, Redwood NSP, Acadia NP </p>
+<li><p><b>Visit 30 National Parks in the US</b> (17/30)<br />
+  Indiana Dunes NP, Yosemite NP, Mount Rainier NP, North Cascades NP, Olympic NP, Great Smoky Mountains NP, Gateway Arch NP, Rocky Mountain NP, Mammoth Cave NP, Congaree NP, New River Gorge NP, Shenandoah NP, Crater Lake NP, Redwood NSP, Acadia NP, Pinnacles NP, Joshua Tree NP </p>
     </li>
 <li><p><b>Visit 30 Other National Parks Services in the US</b> <span style="color:red">(51/30)</span><br />
     Boston NHP, Manhattan Project NHP, Harpers Ferry NHP, First State NHP,  Minute Man NHP, Independence NHP,  Lewis & Clark NHP, San Francisco Maritime NHP, Hopewell Culture NHP,  Golden Gate NRA, Ross Lake NRA, Lake Chelan NRA, Big South Fork NRNA, Gauley River NRA, Herbert Hoover NHS, Edgar Allan Poe NHS, Gloria Dei Church NHS, Lincoln Home NHS, Ulysses S. Grant NHS,  Boston African American NHS, Fort Point NHS, Saugus Iron Works NHS, Salem Maritime NHS, Statue of Liberty NM, Fort Pulaski NM, Muir Woods NM, Fort Mchenry NM, Florissant Fossil Beds NM, Lewis & Clark NHT, Washington-Rochambeau Revolutionary Route NHT, Star-Spangled Banner NHT, Juan Bautista de Anza NHT,  Sleeping Bear Dunes NL, Ice Age NST, Appalachian NST, Point Reyes NS, Obed WSR, Bluestone NSR, Korean War Veterans Memorial, Lincoln Memorial, Pullman Memorial, Pearl Harbor Memorial,  Vietnam Veterans Memorial, White House,   Alcatraz Island, Presidio of San Francisco, Washington Monument, World War II Memorial,
@@ -269,6 +269,6 @@ KORD, KJFK, ZSHC, ZSPD, KATL, KDTW, ZYHB, ZBTJ, ZBAA, ZJSY, ZLXY, KLAX, KSFO, KL
 <li><p><b>Take flights with 30 Airplane Companies</b> <font color=red>(19/30)</font><br />
 HU, CA, DL, AA, UA, CZ, MU, JD, CX, MF, KA, F9, NK, WN, AS, AC, 9K, NK, XP </p>
 </li>
-<li><p><b>Finish 300,000 kilometers flight by air</b> (276,608/300,000)</p>
+<li><p><b>Finish 300,000 kilometers flight by air</b> (299,121/300,000)</p>
 
 
