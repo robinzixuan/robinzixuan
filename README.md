@@ -124,13 +124,6 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/zhanghx04">Haoxiang Zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Marklong7">
-        <img src="https://avatars2.githubusercontent.com/u/97990588" width="100px;" alt="Marklong7"/>
-      </a>
-      <br />
-      <a href="https://github.com/Marklong7">jialong (mark)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ruiyangqin2016">
         <img src="https://avatars2.githubusercontent.com/u/35632188" width="100px;" alt="ruiyangqin2016"/>
       </a>
@@ -164,6 +157,13 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Chenghao-Qiu">
+        <img src="https://avatars2.githubusercontent.com/u/49812751" width="100px;" alt="Chenghao-Qiu"/>
+      </a>
+      <br />
+      <a href="https://github.com/Chenghao-Qiu">Chenghao Qiu</a>
     </td>
   </tr>
 </table>
