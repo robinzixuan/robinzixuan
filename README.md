@@ -145,6 +145,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
+      <a href="https://github.com/CaMi1le">
+        <img src="https://avatars2.githubusercontent.com/u/55053441" width="100px;" alt="CaMi1le"/>
+      </a>
+      <br />
+      <a href="https://github.com/CaMi1le">CaMi1le</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/proudhuma">
         <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
       </a>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Chenghao-Qiu">
-        <img src="https://avatars2.githubusercontent.com/u/49812751" width="100px;" alt="Chenghao-Qiu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Chenghao-Qiu">Chenghao Qiu</a>
     </td>
   </tr>
 </table>
