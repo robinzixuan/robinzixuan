@@ -80,6 +80,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/bshang17">Bingqi Shang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/SiyangShao">
+        <img src="https://avatars2.githubusercontent.com/u/61853047" width="100px;" alt="SiyangShao"/>
+      </a>
+      <br />
+      <a href="https://github.com/SiyangShao">Siyang Shao</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhuangdizhu">
         <img src="https://avatars2.githubusercontent.com/u/10665751" width="100px;" alt="zhuangdizhu"/>
       </a>
@@ -107,6 +114,8 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/fireindark707">fireindark707</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WHMHammer">
         <img src="https://avatars2.githubusercontent.com/u/35433952" width="100px;" alt="WHMHammer"/>
@@ -114,8 +123,6 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/WHMHammer">WHMHammer</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhanghx04">
         <img src="https://avatars2.githubusercontent.com/u/23461954" width="100px;" alt="zhanghx04"/>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/ElaineWu66">Elaine WU Jingyu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Chenghao-Qiu">
-        <img src="https://avatars2.githubusercontent.com/u/49812751" width="100px;" alt="Chenghao-Qiu"/>
-      </a>
-      <br />
-      <a href="https://github.com/Chenghao-Qiu">Chenghao Qiu</a>
     </td>
   </tr>
 </table>
