@@ -87,6 +87,13 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/SiyangShao">Siyang Shao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Luckfort">
+        <img src="https://avatars2.githubusercontent.com/u/87271476" width="100px;" alt="Luckfort"/>
+      </a>
+      <br />
+      <a href="https://github.com/Luckfort">Ching-Yuen Huang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhuangdizhu">
         <img src="https://avatars2.githubusercontent.com/u/10665751" width="100px;" alt="zhuangdizhu"/>
       </a>
@@ -107,6 +114,8 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/runtsang">Runjia Zeng</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fireindark707">
         <img src="https://avatars2.githubusercontent.com/u/30530581" width="100px;" alt="fireindark707"/>
@@ -114,8 +123,6 @@ project | homepage | stars | last commit | version
       <br />
       <a href="https://github.com/fireindark707">fireindark707</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WHMHammer">
         <img src="https://avatars2.githubusercontent.com/u/35433952" width="100px;" alt="WHMHammer"/>
@@ -157,13 +164,6 @@ project | homepage | stars | last commit | version
       </a>
       <br />
       <a href="https://github.com/Chenghao-Qiu">Chenghao Qiu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/proudhuma">
-        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
-      </a>
-      <br />
-      <a href="https://github.com/proudhuma">hhu</a>
     </td>
   </tr>
 </table>
