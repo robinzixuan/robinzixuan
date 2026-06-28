@@ -159,11 +159,11 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/he-h">Haoyu He</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Chenghao-Qiu">
-        <img src="https://avatars2.githubusercontent.com/u/49812751" width="100px;" alt="Chenghao-Qiu"/>
+      <a href="https://github.com/proudhuma">
+        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
       </a>
       <br />
-      <a href="https://github.com/Chenghao-Qiu">Chenghao Qiu</a>
+      <a href="https://github.com/proudhuma">hhu</a>
     </td>
   </tr>
 </table>
