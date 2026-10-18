@@ -145,18 +145,18 @@ project | homepage | stars | last commit | version
       <a href="https://github.com/ruiyangqin2016">Ruiyang Qin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/proudhuma">
-        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
-      </a>
-      <br />
-      <a href="https://github.com/proudhuma">hhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/linghuix">
         <img src="https://avatars2.githubusercontent.com/u/31810858" width="100px;" alt="linghuix"/>
       </a>
       <br />
       <a href="https://github.com/linghuix">Jerry X</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/proudhuma">
+        <img src="https://avatars2.githubusercontent.com/u/26041129" width="100px;" alt="proudhuma"/>
+      </a>
+      <br />
+      <a href="https://github.com/proudhuma">hhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/he-h">
